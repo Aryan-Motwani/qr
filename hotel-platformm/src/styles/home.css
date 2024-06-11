@@ -1,0 +1,75 @@
+.hotel {
+  height: 200px;
+  width: 300px;
+  object-fit: cover;
+  border-radius: 16px;
+}
+
+.hotel-content {
+  /* margin-left: 18%; */
+  margin-top: 2%;
+}
+
+.hotel-name {
+  margin-top: 3%;
+  font-size: 20px;
+  color: black;
+  font-weight: bold;
+}
+
+.cat-img {
+  width: 150px;
+  height: 180px;
+}
+
+.hotel-col {
+  /* margin-left: 10%; */
+}
+
+#elect-product-category1 {
+  margin-left: 5%;
+}
+
+.banner-img {
+  width: 100%;
+  /* height: 500px; */
+  object-fit: cover;
+}
+
+.claim-btn {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 10%;
+  color: white;
+}
+
+.hotel-item {
+  margin: 1%;
+  padding: 1%;
+  border-radius: 20px;
+  text-align: center;
+}
+.hotel-item:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.hotel-text {
+  display: flex;
+  justify-content: space-between;
+}
+
+.hotel-rating {
+  /* align-content: center; */
+  align-self: center;
+  /* align-content: center; */
+  /* align-items: center; */
+  background: #267e3e;
+  color: white;
+  padding: 1%;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+.hotel-add {
+  text-align: left;
+}
